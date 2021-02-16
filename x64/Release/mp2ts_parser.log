@@ -1,0 +1,11 @@
+﻿  main.cpp
+  mpts_parser.cpp
+  avc_parser.cpp
+c:\users\ghait\downloads\mp2ts_parser-master (1)\mp2ts_parser-master\parsers\avc_parser.cpp(377): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  mpeg2_parser.cpp
+  tinyxml2.cpp
+  utils.cpp
+  Generating code
+  All 739 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  mp2ts_parser.vcxproj -> C:\Users\ghait\Downloads\mp2ts_parser-master (1)\mp2ts_parser-master\x64\Release\mp2ts_parser.exe

@@ -1,0 +1,25 @@
+﻿  utils.cpp
+  tinyxml2.cpp
+  mpeg2_parser.cpp
+c:\users\ghait\downloads\mp2ts_parser-master (1)\mp2ts_parser-master\parsers\mpeg2_parser.cpp(71): warning C4477: 'fprintf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'std::size_t'
+  c:\users\ghait\downloads\mp2ts_parser-master (1)\mp2ts_parser-master\parsers\mpeg2_parser.cpp(71): note: consider using '%zu' in the format string
+  avc_parser.cpp
+c:\users\ghait\downloads\mp2ts_parser-master (1)\mp2ts_parser-master\parsers\avc_parser.cpp(377): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  mpts_parser.cpp
+c:\users\ghait\downloads\mp2ts_parser-master (1)\mp2ts_parser-master\mpts_parser.cpp(1284): warning C4244: 'argument': conversion from 'int64_t' to 'std::size_t', possible loss of data
+c:\users\ghait\downloads\mp2ts_parser-master (1)\mp2ts_parser-master\mpts_parser.cpp(1289): warning C4244: 'argument': conversion from 'int64_t' to 'std::size_t', possible loss of data
+c:\users\ghait\downloads\mp2ts_parser-master (1)\mp2ts_parser-master\mpts_parser.cpp(1340): warning C4244: 'argument': conversion from 'int64_t' to 'std::size_t', possible loss of data
+c:\users\ghait\downloads\mp2ts_parser-master (1)\mp2ts_parser-master\mpts_parser.cpp(1342): warning C4244: 'argument': conversion from 'int64_t' to 'std::size_t', possible loss of data
+c:\users\ghait\downloads\mp2ts_parser-master (1)\mp2ts_parser-master\mpts_parser.cpp(1358): warning C4244: 'argument': conversion from 'int64_t' to 'std::size_t', possible loss of data
+c:\users\ghait\downloads\mp2ts_parser-master (1)\mp2ts_parser-master\mpts_parser.cpp(1363): warning C4244: 'argument': conversion from 'int64_t' to 'std::size_t', possible loss of data
+c:\users\ghait\downloads\mp2ts_parser-master (1)\mp2ts_parser-master\mpts_parser.cpp(1366): warning C4244: 'return': conversion from 'int64_t' to 'std::size_t', possible loss of data
+c:\users\ghait\downloads\mp2ts_parser-master (1)\mp2ts_parser-master\mpts_parser.cpp(1837): warning C4477: 'fprintf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'std::size_t'
+  c:\users\ghait\downloads\mp2ts_parser-master (1)\mp2ts_parser-master\mpts_parser.cpp(1837): note: consider using '%zu' in the format string
+  main.cpp
+c:\users\ghait\downloads\mp2ts_parser-master (1)\mp2ts_parser-master\main.cpp(164): warning C4244: 'initializing': conversion from 'int64_t' to 'unsigned int', possible loss of data
+c:\users\ghait\downloads\mp2ts_parser-master (1)\mp2ts_parser-master\main.cpp(167): warning C4244: 'argument': conversion from 'int64_t' to 'std::size_t', possible loss of data
+c:\users\ghait\downloads\mp2ts_parser-master (1)\mp2ts_parser-master\main.cpp(201): warning C4244: '=': conversion from 'int64_t' to 'std::size_t', possible loss of data
+c:\users\ghait\downloads\mp2ts_parser-master (1)\mp2ts_parser-master\main.cpp(216): warning C4244: 'argument': conversion from 'int64_t' to 'std::size_t', possible loss of data
+  Generating Code...
+  mp2ts_parser.vcxproj -> C:\Users\ghait\Downloads\mp2ts_parser-master (1)\mp2ts_parser-master\Debug\mp2ts_parser.exe
+  mp2ts_parser.vcxproj -> C:\Users\ghait\Downloads\mp2ts_parser-master (1)\mp2ts_parser-master\Debug\mp2ts_parser.pdb (Full PDB)
