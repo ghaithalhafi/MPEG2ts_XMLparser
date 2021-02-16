@@ -1,7 +1,7 @@
-This is a C++ MPEG2 parser to XML application.
+This is a C++ MPEG2 parser to XML.
 this example used Microsoft visual studio 2019 IDE
 tried to match it and run in Ubuntu environment but didn't work, but it's working perfect in Windows 10 OS with no errors.
-Didn't have enough time to test it, no errors with the code, successfully compiled and built but couldn't show results.
+Didn't have enough time to test it enough, no errors with the code, successfully compiled and built but couldn't show results.
 
 Please note, this code will not modify the PID number but it will export the .ts file to XML output file
 
